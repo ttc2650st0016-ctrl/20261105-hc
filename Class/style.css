@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.hiragana {
+    font-family: serif;
+}
+
+.test {
+    font-size: 18px;
+}
+
+.morning p {
+    color: orange;
+}
+
+.night p {
+    color: navy;
+}
